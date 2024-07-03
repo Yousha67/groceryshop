@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957867432144",
+    "project_id": "ecommerce-c58a2",
+    "storage_bucket": "ecommerce-c58a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957867432144:android:ea70dc0d030a3e08f8a6d5",
+        "android_client_info": {
+          "package_name": "com.example.groceryshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5lzgi1zgZ54mRZ57kTDQX8u37Gu7vqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
