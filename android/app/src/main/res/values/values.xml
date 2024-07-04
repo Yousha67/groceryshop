@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="groceryshop">MyApp</string>
+    <!-- Firebase configuration values -->
+    <string name="google_app_id">1:105490731571:android:882fe4e4544f451380c946</string>
+    <string name="project_id">grocery-shop-260ec</string>
+    <string name="gcm_defaultSenderId">105490731571</string>
+    <string name="google_api_key">AIzaSyC6EAg6WAN1A0hTLY-7aISD9bWckQmb8XA</string>
+
+
+    <!-- Define colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Define dimensions -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
