@@ -51,14 +51,17 @@ class IntroScreen extends StatelessWidget {
 
             // get started button
             GestureDetector(
-              onTap: () => Navigator.pushReplacement(
+
+              onTap: () {
+                debugPrint("Get Started button tapped");
+                Navigator.push(
                 context,
                 MaterialPageRoute(
                   builder: (context) {
                     return LoginScreen();
                   },
                 ),
-              ),
+              );},
               child: Container(
                 padding: const EdgeInsets.all(24),
                 decoration: BoxDecoration(
